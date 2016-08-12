@@ -1,0 +1,11 @@
+#I am about to start programming with python
+print (There once was a movie star icon)
+#prior string variable have mistakes and it does not quoted properly
+print ("There once was a movie star icon")
+#Lots of methods to do programming on Py
+print ('Who prepared to sleep with the light on.')
+#That string was right
+Print (""They learned how to code"")
+print ('''a device that sure glowed
+and lit up the night using Python!''')
+#Concluded with satisfaction and a clean programming
